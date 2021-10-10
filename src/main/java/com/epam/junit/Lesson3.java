@@ -1,10 +1,6 @@
 package com.epam.junit;
 
-import java.util.Scanner;
-
 public class Lesson3 {
-
-
 
         public boolean calculateSum(int n) {
 
